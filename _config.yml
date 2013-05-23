@@ -1,2 +1,4 @@
 baseurl: /
+name: yjp
 auto: true
+pygments: true
