@@ -25,7 +25,7 @@ title: 个人简历
    * 全程参与设计与实现:框架搭建、前端界面、后端业务、部署运行  
    * 前端使用的jquery、bootstrap  
    * 个人博客使用的平台是:github + jekyll + markdown  
-   * 有mys、postgresql、sqlite数据库使用经验  
+   * 有mysql、postgresql、sqlite数据库使用经验  
 
 
 ###自我介绍  
