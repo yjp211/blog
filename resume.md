@@ -14,23 +14,23 @@ title: 个人简历
    * 使用Linux c参与企业级的守护进程开发，负责过核心模块的设计与实现  
    * 对Linux访问权限有较深刻的认识和实践经历  
    * 尝试阅读过内核源码，阅读过cifs源码  
-   * 使用shell编写脚本简化日常工作  
-   * 熟练使用find, awk, sed，grep, xargs, diff等命令提高工作效率  
+   * 使用shell编写脚本，简化日常工作  
+   * 熟练使用find、awk、sed、grep、xargs、diff等命令提高工作效率  
    * 使用svn和git管理版本  
    * 熟练使用vim  
    * 动手部署过高可用集群  
 
 * 熟悉Web开发(1年)  
-   * 调研并学习django，python为产品搭建web管理平台  
-   * 全程参与设计与实现:框架搭建，前端界面，后端业务，部署运行  
-   * 前端使用的jquery, bootstrap  
-   * 个人博客使用的平台是:github+jekyll+markdown  
-   * 有mysql，postgresql, sqlite数据库使用经验  
+   * 调研并学习django、python为产品搭建web管理平台  
+   * 全程参与设计与实现:框架搭建、前端界面、后端业务、部署运行  
+   * 前端使用的jquery、bootstrap  
+   * 个人博客使用的平台是:github + jekyll + markdown  
+   * 有mys、postgresql、sqlite数据库使用经验  
 
 
 ###自我介绍  
 
-* 接触编程多年，激情有曾无减  
+* 接触编程多年，激情有增无减  
 * 扎实的编程基础，比较宽阔的视野  
 * 清晰自己的定位，目标明确  
 * 自认为是geek  
