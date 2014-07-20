@@ -18,7 +18,7 @@ title: 个人简历
 
 * 熟悉Web开发(2年)  
    * 使用Django框架能够独立的完成Web站点设计、开发、部署
-   * 熟练使用jquery，bootstrap前端框架。
+   * 熟练使用jquery，bootstrap前端框架
 
 
 ###我的优势  
